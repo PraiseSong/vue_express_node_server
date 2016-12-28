@@ -1,6 +1,6 @@
-# qiakr_mall_server
+# vue_express_node_server
 
-> 洽客商城Nodejs服务端
+> 一个Nodejs服务端
 
 这套系统由Node(6.6.0)+Express(4.X)+PM2+Redis+Arttemplate构建的一套MVC系统。
 
