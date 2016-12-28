@@ -1,0 +1,22 @@
+{{include 'head'}}
+
+{{if user}}
+    <p>{{user}}</p>
+    <a href="/logout.html">退出</a>
+{{else}}
+    <a href="/login.html">登录</a>
+{{/if}}
+
+{{if php}}
+<div>
+    <br />Demo: NodeJS Https to Service的返回数据：<br />
+    <code>
+        {{php}}
+    </code>
+</div>
+{{/if}}
+
+<script>
+    document.title = '{{title}}';
+</script>
+{{include 'foot'}}

@@ -1,0 +1,40 @@
+{
+  "name": "qirka_wxmall_server",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "pm2 start ./bin/www",
+    "dev": "pm2 start ./bin/www --watch",
+    "restart": "pm2 restart ./bin/www",
+    "ds": "pm2 deploy deploy.json prod setup",
+    "deploy": "pm2 deploy deploy.json prod",
+    "stop": "pm2 delete www",
+    "pcc": "node ./production_completed_cmd production 80 1"
+  },
+  "dependencies": {
+    "art-template": "^3.0.3",
+    "babel-cli": "^6.16.0",
+    "babel-preset-es2015": "^6.16.0",
+    "body-parser": "~1.15.1",
+    "connect-redis": "^3.1.0",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.2.0",
+    "dotenvr": "^0.1.1",
+    "express": "~4.13.4",
+    "express-mobile-agent": "0.0.1",
+    "express-session": "^1.14.1",
+    "file-stream-rotator": "0.0.7",
+    "glob": "^7.1.1",
+    "hiredis": "^0.5.0",
+    "jsonwebtoken": "^7.1.9",
+    "mime": "^1.3.4",
+    "moment": "^2.15.1",
+    "morgan": "~1.7.0",
+    "promise": "^7.1.1",
+    "redis": "^2.6.2",
+    "serve-favicon": "~2.3.0",
+    "underscore": "^1.8.3",
+    "util": "^0.10.3",
+    "winston": "^2.2.0"
+  }
+}

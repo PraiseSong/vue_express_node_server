@@ -1,0 +1,17 @@
+{{include 'head'}}
+
+{{if error}}
+    <h1 class="error_title">{{error.status}}</h1>
+{{/if}}
+
+{{if message}}
+    <p class="error">{{message}}</p>
+{{else}}
+    <p class="error">发生未知错误</p>
+{{/if}}
+
+{{if error}}
+    <div class="error">{{error.stack}}</div>
+{{/if}}
+
+{{include 'foot'}}

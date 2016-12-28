@@ -1,0 +1,14 @@
+
+{"DATE":"2016/10/20 11:41:30","LEVEL":"error","MESSAGE":"404","META":{"url":"/logi"}}
+
+{"DATE":"2016/10/20 11:41:58","LEVEL":"error","MESSAGE":"404","META":{"url":"/logi?fds5"}}
+
+{"DATE":"2016/10/20 11:42:14","LEVEL":"error","MESSAGE":"404","META":""}
+
+{"DATE":"2016/10/20 11:44:38","LEVEL":"error","MESSAGE":"404","META":{"url":"http://api.qiakr.com:8090/logi?fds5"}}
+
+{"DATE":"2016/10/20 11:44:43","LEVEL":"error","MESSAGE":"404","META":{"url":"http://api.qiakr.com:8090/logi"}}
+
+{"DATE":"2016/10/20 11:44:47","LEVEL":"error","MESSAGE":"Http POST Request Error: Error: connect ECONNREFUSED 127.0.0.1:80","META":""}
+
+{"DATE":"2016/10/20 11:45:59","LEVEL":"error","MESSAGE":"404","META":{"url":"http://api.qiakr.com:8090/login.html3"}}

@@ -1,0 +1,26 @@
+{
+  /**
+   * Application configuration section
+   * http://pm2.keymetrics.io/docs/usage/application-declaration/
+   */
+  apps : [
+    {
+      "name" : "app_dev"
+    }
+  ],
+
+  /**
+   * Deployment section
+   * http://pm2.keymetrics.io/docs/usage/deployment/
+   */
+  deploy : {
+    prod : {
+      user : "root",
+      host : "115.29.39.106",
+      ref  : "origin/master",
+      repo : "git@git.coding.net:qiakr_f2e/qiakr_mall_server.git",
+      path : "/www/node",
+      "post-deploy" : "nvm use 6.6.0 && npm run pcc"
+    }
+  }
+}

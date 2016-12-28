@@ -1,0 +1,58 @@
+
+{"DATE":"2016/10/18 14:18:54","LEVEL":"info","MESSAGE":"这是第三条测试日志","META":{"title":"洽客微商城Node服务"}}
+
+{"DATE":"2016/10/18 14:19:27","LEVEL":"info","MESSAGE":"这是第四条测试日志","META":{"title":"洽客微商城Node服务"}}
+
+{"DATE":"2016/10/18 14:19:45","LEVEL":"info","MESSAGE":"这是第四条测试日志","META":{"title":"洽客微商城Node服务"}}
+
+{"DATE":"2016/10/18 14:20:19","LEVEL":"info","MESSAGE":"这是第五条测试日志","META":{"title":"洽客微商城Node服务"}}
+
+{"DATE":"2016/10/18 14:20:31","LEVEL":"info","MESSAGE":"这是第五条测试日志","META":{"title":"洽客微商城Node服务"}}
+
+{"DATE":"2016/10/18 14:20:52","LEVEL":"info","MESSAGE":"这是第6条测试日志","META":{"title":"洽客微商城Node服务"}}
+
+{"DATE":"2016/10/18 14:21:23","LEVEL":"info","MESSAGE":"这是第6条测试日志","META":{"title":"洽客微商城Node服务"}}
+
+{"DATE":"2016/10/18 14:21:30","LEVEL":"info","MESSAGE":"这是第6条测试日志","META":{"title":"洽客微商城Node服务"}}
+
+{"DATE":"2016/10/18 14:22:36","LEVEL":"info","MESSAGE":"这是第1条测试日志","META":{"title":"洽客微商城Node服务"}}
+
+{"DATE":"2016/10/18 14:22:36","LEVEL":"warn","MESSAGE":"这是第2条测试日志","META":{"title":"洽客微商城Node服务"}}
+
+{"DATE":"2016/10/18 14:22:36","LEVEL":"error","MESSAGE":"这是第3条测试日志","META":{"title":"洽客微商城Node服务"}}
+
+{"DATE":"2016/10/18 14:23:04","LEVEL":"info","MESSAGE":"这是第1条测试日志","META":{"title":"洽客微商城Node服务"}}
+
+{"DATE":"2016/10/18 14:23:04","LEVEL":"warn","MESSAGE":"这是第2条测试日志","META":{"title":"洽客微商城Node服务"}}
+
+{"DATE":"2016/10/18 14:23:04","LEVEL":"error","MESSAGE":"这是第3条测试日志","META":{"title":"洽客微商城Node服务"}}
+
+{"DATE":"2016/10/18 14:23:29","LEVEL":"info","MESSAGE":"这是第1条测试日志","META":{"title":"洽客微商城Node服务"}}
+
+{"DATE":"2016/10/18 14:23:29","LEVEL":"warn","MESSAGE":"这是第2条测试日志","META":{"title":"洽客微商城Node服务"}}
+
+{"DATE":"2016/10/18 14:23:29","LEVEL":"error","MESSAGE":"这是第3条测试日志","META":{"title":"洽客微商城Node服务"}}
+
+{"DATE":"2016/10/18 16:57:30","LEVEL":"error","MESSAGE":"Http Request Error: Error: getaddrinfo ENOTFOUND dev.api3.jituofu.coms dev.api3.jituofu.coms:80","META":""}
+
+{"DATE":"2016/10/18 16:57:52","LEVEL":"error","MESSAGE":"Http Request Error: Error: getaddrinfo ENOTFOUND dev.api3.jituofu.coms dev.api3.jituofu.coms:80","META":""}
+
+{"DATE":"2016/10/18 16:59:01","LEVEL":"error","MESSAGE":"Http Request Error: Error: getaddrinfo ENOTFOUND dev.api3.jituofu.coms dev.api3.jituofu.coms:80","META":""}
+
+{"DATE":"2016/10/18 16:59:26","LEVEL":"error","MESSAGE":"Http Request Error: Error: getaddrinfo ENOTFOUND dev.api3.jituofu.coms dev.api3.jituofu.coms:80","META":""}
+
+{"DATE":"2016/10/18 16:59:50","LEVEL":"error","MESSAGE":"Http Request Error: Error: getaddrinfo ENOTFOUND dev.api3.jituofu.coms dev.api3.jituofu.coms:80","META":""}
+
+{"DATE":"2016/10/18 16:59:51","LEVEL":"error","MESSAGE":"Http Request Error: Error: getaddrinfo ENOTFOUND dev.api3.jituofu.coms dev.api3.jituofu.coms:80","META":""}
+
+{"DATE":"2016/10/18 16:59:52","LEVEL":"error","MESSAGE":"Http Request Error: Error: getaddrinfo ENOTFOUND dev.api3.jituofu.coms dev.api3.jituofu.coms:80","META":""}
+
+{"DATE":"2016/10/18 17:01:50","LEVEL":"error","MESSAGE":"Http Request Error: Error: getaddrinfo ENOTFOUND dev.api3.jituofu.coms dev.api3.jituofu.coms:80","META":""}
+
+{"DATE":"2016/10/18 17:01:54","LEVEL":"error","MESSAGE":"Http Request Error: Error: getaddrinfo ENOTFOUND dev.api3.jituofu.coms dev.api3.jituofu.coms:80","META":""}
+
+{"DATE":"2016/10/18 17:10:39","LEVEL":"error","MESSAGE":"Http Request Error: Error: getaddrinfo ENOTFOUND dev.api3.jituofu.coms dev.api3.jituofu.coms:80","META":""}
+
+{"DATE":"2016/10/18 17:16:32","LEVEL":"error","MESSAGE":"Http Request Error: Error: connect ECONNREFUSED 127.0.0.1:80","META":""}
+
+{"DATE":"2016/10/18 17:16:37","LEVEL":"error","MESSAGE":"Http Request Error: Error: connect ECONNREFUSED 127.0.0.1:80","META":""}
