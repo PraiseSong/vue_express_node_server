@@ -13,7 +13,7 @@ module.exports = {
         SECRET: "qiakr"
     },
     SERVICE: {
-        HOST: "api.qiakr.com",
+        HOST: "127.0.0.1",
         PORT: env.PORT
     },
     ACCESS_LOGS_DIR : path.join(__dirname, 'logs'),

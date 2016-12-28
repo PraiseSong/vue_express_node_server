@@ -5,6 +5,9 @@
 这套系统由Node(6.6.0)+Express(4.X)+PM2+Redis+Arttemplate构建的一套MVC系统。
 
 ## Build Setup
+#### install redis
+* 本机安装`redis`
+* 修改`/config.js`中的`REDIS`相关的配置
 #### install pm2
 `npm install -g pm2`
 
